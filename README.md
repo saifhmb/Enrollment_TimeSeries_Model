@@ -15,7 +15,7 @@ make forecasts.
 ### Results Summary of the Best Model
 ![image](https://github.com/user-attachments/assets/294fbeb8-531e-4a5b-85b5-39801fb0607e)
 
-- Production:  Using the model to make forecasts, the mean absolute error is 504.4. The fall headcount enrollment for 2024 is predicted to be between 4,158 and 5490 students. 
+- Production:  Using the model to make forecasts, the mean absolute error is 504.4. The fall headcount enrollment for 2024 is predicted to be between 4,158 and 5,490 students. 
 
   
   
