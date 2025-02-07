@@ -9,7 +9,7 @@ make forecasts.
 ### ACF and PACF Plots
 ![image](https://github.com/user-attachments/assets/cba7912f-7a37-4049-87d6-566b6d1dbba2)
 
-- Estimation: Using auto_arima and the dataset to train the model coefficients. This led to the determination of the ARIMA model order with the lowest aic. The model was fitted using ARIMA(1, 1, 1)
+- Estimation: Using auto_arima and the dataset to train the model coefficients. This led to the determination of the ARIMA model order with the lowest aic. The model was fitted using ARIMA(1, 1, 1) with an aic score of 137.5.
 
 - Model diagnostic: to confirm residuals are uncorrelated and normally distributed
 ### Results Summary of the Best Model
